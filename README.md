@@ -65,6 +65,6 @@ This website allows users to book slots in newspapers for advertising purposes. 
 - [Athul Sabu](https://github.com/AthulSabu2002)
 - [Allen K Philip](https://github.com/AllenKPhilip)
 - [Abin Mathew Sunny](https://github.com/AbinMathewSunny)
-- [Aravind Prakash]()
+- [Aravind Prakash](https://github.com/Aravind9192)
 
 
